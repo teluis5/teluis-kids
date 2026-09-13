@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://kids.teluis.com/sitemap-index.xml
